@@ -1,0 +1,17 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.navigation{
+    padding: 0px 8px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul{
+    display: flex;
+    gap: 24px;
+    font-weight: 500;
+}
